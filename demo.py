@@ -63,6 +63,7 @@ def main():
     node.run()
 
     print('start node')
+    print('xiu gai de di fang')
     while True:
         time.sleep(5)
         node.stop()
